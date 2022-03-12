@@ -14,14 +14,14 @@ export default function Admin() {
     const onSubmitHandler = (e) => {
         // setAdmin(data);
         console.log("this is admin"+data.name);
-        if(data.name == "ajay" && data.pass == 1234 ){
+        if(data.name == "swapnil" && data.pass == 1234 ){
             history.push("/adminlogin")
 }
 else{
-    if(data.name==="ajay" && data.pass!=1234){
+    if(data.name==="swapnil" && data.pass!=1234){
             alert("wrong pass")
     } 
-    else if(data.name!="ajay" && data.pass===1234){
+    else if(data.name!="swapnil" && data.pass===1234){
 
         alert("wrong name");
     }
