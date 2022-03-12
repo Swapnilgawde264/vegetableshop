@@ -36,8 +36,8 @@ const linkStyle={
             <div className="col-6 col-sm-4 text-center  my-2 ">
                 <h4 className='my-5'>GET IN TOUCH</h4>
                 <h6 className='my-4' > <GoLocation/> Aurangabad , Maharastra.</h6>
-                <h6 className='my-4' > <HiOutlineMail/> kharatajay998@gmail.com</h6>
-                <h6 className='my-4' > <BsTelephoneX/> +918999702238</h6>
+                <h6 className='my-4' > <HiOutlineMail/> gswapnil264@gmail.com</h6>
+                <h6 className='my-4' > <BsTelephoneX/> +919518387972</h6>
              
             </div>
             <div className="col-6 col-sm-4 my-2 text-center ">
@@ -60,7 +60,7 @@ const linkStyle={
         </div>
     </section>
 
-    <p className='text-center bg-light'>2021 @copyright . Developed by <span className='text-success'> Ajay Kharat </span> </p>
+    <p className='text-center bg-light'>2021 @copyright . Developed by <span className='text-success'> swapnil Gawde </span> </p>
   </div>;
   
 };
