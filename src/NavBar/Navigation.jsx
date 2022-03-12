@@ -52,7 +52,7 @@ export default function Navigation() {
 
             </nav>
             {/* <section className="hero-section">
-                <p>Ajay Kharat </p>
+                <p>Swapnil Gawde</p>
                 <h1>Front End Developer</h1>
             </section> */}
         </>
